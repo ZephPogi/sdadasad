@@ -1,0 +1,15 @@
+# Dependency directories
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Build outputs
+dist/
+frontend/dist/
+
+# Environment variables
+.env
+*.local
+
+# Logs
+*.log
